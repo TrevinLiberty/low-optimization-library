@@ -10,7 +10,7 @@ code available for free online that are just as fast or *faster* than yours?
 
 Well, worry no more! The **Low Optimization Library** is an open-source collection of containers
 and utility classes that will make your own code shine by comparison in even the simplest of
-tests! Written in C++ for maximum inefficiency, these containers are guaranteed to be orders
+tests! Written for maximum inefficiency, these STL-style C++ containers are guaranteed to be orders
 of magnitude slower than even your naivest implementation. Benchmark your own utility classes
 against ours for impressive results that are sure to impress your friends! Or, throw a few into
 random pieces of code at work! You're sure to look like a hero to your co-workers when you're
