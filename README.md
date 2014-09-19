@@ -4,7 +4,7 @@ Low Optimization Library
 A library of C++ utility classes written to be as slow as possible, for all your benchmarking needs!
 
 Have you ever finished polishing up a particularly nifty piece of optimized code and thought
-to yourself, "Man... This implementation is fast, but there's probably a faster one out there
+to yourself, "Man... This implementation is fast, but there's probably a better one out there
 somewhere." Doesn't it suck to know that there are, most likely, several versions of the same
 code available for free online that are just as fast or *faster* than yours?
 
