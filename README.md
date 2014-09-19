@@ -12,8 +12,8 @@ Well, worry no more! The **Low Optimization Library** is an open-source collecti
 and utility classes that will make your own code shine by comparison in even the simplest of
 tests! Written for maximum inefficiency, these STL-style C++ containers are guaranteed to be orders
 of magnitude slower than even your naivest implementation. Benchmark your own utility classes
-against ours for impressive results that are sure to impress your friends! Or, throw a few into
-random pieces of code at work! You're sure to look like a hero to your co-workers when you're
-able to make huge performance improvements to the codebase with the flick of a keystroke!
+against ours for landslide results that are sure to impress your friends! Or, throw a few into
+your own code at work! You're sure to look like a hero to your co-workers later when you're able to
+make huge performance improvements to the codebase with the flick of a keystroke!
 
 The possibilities are endless---with **LOL**!
