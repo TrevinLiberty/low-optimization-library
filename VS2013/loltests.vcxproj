@@ -11,9 +11,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\include\lol\ObjectID.cpp" />
     <ClCompile Include="..\tests\tests.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\include\lol\ObjectID.h" />
+    <ClInclude Include="..\include\lol\ObjectManager.h" />
     <ClInclude Include="..\include\lol\string.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
